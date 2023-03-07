@@ -1970,9 +1970,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"DGL-113-Week-03-Demo@workspace:.":
+"DGL-113-Week-06-Demo@workspace:.":
   version: 0.0.0-use.local
-  resolution: "DGL-113-Week-03-Demo@workspace:."
+  resolution: "DGL-113-Week-06-Demo@workspace:."
   dependencies:
     "@babel/core": ^7.20.12
     "@babel/preset-env": ^7.20.2

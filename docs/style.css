@@ -25,10 +25,9 @@ body {
   }
 
   .setBackColor {
-    background-color: lightgreen;
+    background-color:azure;
   }
   .setFont {
-    font-style: italic;
-    font-weight: bold;
+    font-family: fantasy;
   }
   
